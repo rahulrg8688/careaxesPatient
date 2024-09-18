@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "418029376310",
+    "firebase_url": "https://careaxes-24ee0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "careaxes-24ee0",
+    "storage_bucket": "careaxes-24ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418029376310:android:ece4e58b7af72d90df9997",
+        "android_client_info": {
+          "package_name": "com.nativecareaxesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418029376310-kqstc10k43lm3trp910bm456fs4c89tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativecareaxesapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "418029376310-41qbua9u7sepj1t2atg9del765qqap59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv7efSO2jVQgQ64sO0hAqyJn-A0x1Db6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418029376310-41qbua9u7sepj1t2atg9del765qqap59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418029376310-5ovabv3l1r68sbl1s5q25naof2cdfhn7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icrea.CareaxesDoctor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418029376310:android:1a313258869a318edf9997",
+        "android_client_info": {
+          "package_name": "com.suja.hims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418029376310-41qbua9u7sepj1t2atg9del765qqap59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv7efSO2jVQgQ64sO0hAqyJn-A0x1Db6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418029376310-41qbua9u7sepj1t2atg9del765qqap59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418029376310-5ovabv3l1r68sbl1s5q25naof2cdfhn7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icrea.CareaxesDoctor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418029376310:android:29a6bc5d13403a76df9997",
+        "android_client_info": {
+          "package_name": "com.suja.himsprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418029376310-41qbua9u7sepj1t2atg9del765qqap59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv7efSO2jVQgQ64sO0hAqyJn-A0x1Db6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418029376310-41qbua9u7sepj1t2atg9del765qqap59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418029376310-5ovabv3l1r68sbl1s5q25naof2cdfhn7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icrea.CareaxesDoctor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
